@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aqa-python-2024"
+version = "0.1.0"
+description = "AQA Python practice"
+authors = ["Weronika Strzelczyk"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^8.2.0"
+selenium = "^4.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
