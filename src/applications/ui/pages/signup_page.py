@@ -1,2 +1,0 @@
-class SignUpPage:
-    pass
